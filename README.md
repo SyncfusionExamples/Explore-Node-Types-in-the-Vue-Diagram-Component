@@ -5,6 +5,7 @@ A quick start Vue project that shows the node types available in the [Vue Diagra
 Watch the video: Coming soon…
 
 Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/shapes
+
 Check out this online example of the Vue Diagram component: https://ej2.syncfusion.com/vue/demos/#/material3/diagram/shape-gallery.html
 
 Make sure you have the latest versions of Node.js and Visual Studio Code on your machine before working on this project.
