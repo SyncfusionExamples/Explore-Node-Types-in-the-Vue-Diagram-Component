@@ -2,7 +2,7 @@
 
 A quick start Vue project that shows the node types available in the [Vue Diagram]( https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-nodetypes-sample) component. This project includes code snippets for rendering basic, flow, text, image, HTML, UML, BPMN, path, and native or SVG node types.
 
-Watch the video: Coming soon…
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/diagram?title=explore-node-types-in-the-vue-diagram
 
 Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/shapes
 
